@@ -1,0 +1,1 @@
+from .CoSODNet import CoSODNet
