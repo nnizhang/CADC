@@ -4,6 +4,7 @@ source codes of "Summarize and Search: Learning Consensus-aware Dynamic Convolut
 
 created by Ni Zhang, email: nnizhang.1995@gmail.com
 
+![avatar](https://github.com/nnizhang/CADC/blob/main/Figure.png)
 
 ## Requirement
 1. Pytorch 1.6.0
