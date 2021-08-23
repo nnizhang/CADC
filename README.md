@@ -32,5 +32,13 @@ We use [evaluation tool](http://dpfan.net/wp-content/uploads/CoSalBenchmark-Eval
 Our saliency maps can be download from [[baidu pan](https://pan.baidu.com/s/1bkCrqsOzNAgH-VSM0p7fMA) fetch code: i59u | [Google drive](https://drive.google.com/file/d/1LBBQOBeasn6O2caccs5t1e26ilv-d62h/view?usp=sharing)].
 
 
-
+## Citation
+If you think our work is helpful, please cite 
+```
+@inproceedings{zhang2021CADC, 
+  title={Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection}, 
+  author={Zhang, Ni and Han, Junwei and Liu, Nian and Shao, Ling},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2021}
+}
 
