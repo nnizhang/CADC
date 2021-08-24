@@ -36,7 +36,8 @@ def test_net(net, batch_size):
             output = F.sigmoid(y_pred)
 
             saved_root = save_test_path_root + dataset_name
-            save_final_path = saved_root + '/CADC_' + test_model + '/' + subpaths[0][0].split('/')[0] + '/'
+            # save_final_path = saved_root + '/CADC_' + test_model + '/' + subpaths[0][0].split('/')[0] + '/'
+            save_final_path = saved_root + '/CADC/' + subpaths[0][0].split('/')[0] + '/'
             os.makedirs(save_final_path, exist_ok=True)
 
             for inum in range(output.size(0)):
