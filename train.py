@@ -128,7 +128,7 @@ def train_net(net):
 
 if __name__ == '__main__':
 
-    os.environ["CUDA_VISIBLE_DEVICES"] = str(0)
+    os.environ["CUDA_VISIBLE_DEVICES"] = gpu_id
     cudnn.benchmark = True
 
     net = CoSODNet(3, mode='train')
