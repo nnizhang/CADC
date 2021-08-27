@@ -58,7 +58,7 @@ def test_net(net, batch_size):
 
 if __name__ == '__main__':
 
-    os.environ["CUDA_VISIBLE_DEVICES"] = str(0)
+    os.environ["CUDA_VISIBLE_DEVICES"] = gpu_id
     cudnn.benchmark = True
 
     start = time.time()
