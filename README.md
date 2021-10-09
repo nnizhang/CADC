@@ -35,10 +35,12 @@ Our saliency maps can be download from [[baidu pan](https://pan.baidu.com/s/1bkC
 ## Citation
 If you think our work is helpful, please cite 
 ```
-@inproceedings{zhang2021CADC, 
-  title={Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection}, 
-  author={Zhang, Ni and Han, Junwei and Liu, Nian and Shao, Ling},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  year={2021}
+@InProceedings{Zhang_2021_ICCV,
+    author    = {Zhang, Ni and Han, Junwei and Liu, Nian and Shao, Ling},
+    title     = {Summarize and Search: Learning Consensus-Aware Dynamic Convolution for Co-Saliency Detection},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {4167-4176}
 }
 
